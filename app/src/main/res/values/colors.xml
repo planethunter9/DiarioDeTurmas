@@ -1,0 +1,6 @@
+<resources>
+    <color name="bg">#F6F6F7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="primary">#EE7A1A</color>
+    <color name="ic_launcher_bg">#FFA305</color>
+</resources>
